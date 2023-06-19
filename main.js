@@ -9,3 +9,5 @@ const NaN = "privet" - 5;
 console.log(u, n, b, NaN);
 
 let abc = "Abc";
+
+console.log(abc);
